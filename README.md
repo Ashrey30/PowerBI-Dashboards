@@ -20,8 +20,8 @@ To get started with using our templates, follow these steps:
 5. **Save and Publish:** Once you're satisfied with your dashboard, save your work and publish it to Power BI Service to share it with others.
 
 ## Templates Overview
-- **IPL 2023 Dashboard:** A comprehensive dashboard for analyzing sales performance, including revenue trends, product sales, customer segmentation, and geographical distribution.
-- **Comprehensive Mutual Funds Dashboard:** Track the effectiveness of your marketing campaigns, analyze customer engagement metrics, and visualize marketing spend across channels.
+- **IPL 2023 Dashboard:** The IPL_2023 Dashboard template provides a comprehensive analysis of the Indian Premier League (IPL) cricket tournament for the 2023 season. This dashboard is designed to help cricket enthusiasts, team owners, analysts, and stakeholders gain insights into various aspects of the tournament.
+- **Comprehensive Mutual Funds Dashboard:** The Comprehensive Mutual Funds Dashboard template offers a detailed analysis of mutual fund investments across various asset classes, sectors, and fund categories. This dashboard is designed to help investors, financial advisors, and fund managers monitor and optimize their mutual fund portfolios.
 
 ## Contributing
 We welcome contributions from the community! If you have a Power BI dashboard template that you'd like to share with others, or if you'd like to suggest improvements to existing templates, feel free to submit a pull request or open an issue.
